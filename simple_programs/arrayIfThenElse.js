@@ -1,4 +1,4 @@
-//scratch-written
+// scratch-written 
 
 zooArray = ['lion','tiger','bear','invalidData'];
 
